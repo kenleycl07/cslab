@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Etudiants\bin\Debug\Etudiants.exe.config
+C:\Users\hp\source\repos\Etudiants\bin\Debug\Etudiants.exe
+C:\Users\hp\source\repos\Etudiants\bin\Debug\Etudiants.pdb
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.Etudiants.resources
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.Properties.Resources.resources
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.exe
+C:\Users\hp\source\repos\Etudiants\obj\Debug\Etudiants.pdb
