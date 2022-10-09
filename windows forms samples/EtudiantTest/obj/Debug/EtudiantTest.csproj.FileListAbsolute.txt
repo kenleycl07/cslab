@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\EtudiantTest\bin\Debug\EtudiantTest.exe.config
+C:\Users\hp\source\repos\EtudiantTest\bin\Debug\EtudiantTest.exe
+C:\Users\hp\source\repos\EtudiantTest\bin\Debug\EtudiantTest.pdb
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.frmEtudiantTest.resources
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.Properties.Resources.resources
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.exe
+C:\Users\hp\source\repos\EtudiantTest\obj\Debug\EtudiantTest.pdb
