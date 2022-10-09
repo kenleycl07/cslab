@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\TestWindowsApp\bin\Debug\TestWindowsApp.exe.config
+C:\Users\hp\source\repos\TestWindowsApp\bin\Debug\TestWindowsApp.exe
+C:\Users\hp\source\repos\TestWindowsApp\bin\Debug\TestWindowsApp.pdb
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.Form1.resources
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.Properties.Resources.resources
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.exe
+C:\Users\hp\source\repos\TestWindowsApp\obj\Debug\TestWindowsApp.pdb
