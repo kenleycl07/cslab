@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\JSONParseApp\bin\Debug\JSONParseApp.exe.config
+C:\Users\hp\source\repos\JSONParseApp\bin\Debug\JSONParseApp.exe
+C:\Users\hp\source\repos\JSONParseApp\bin\Debug\JSONParseApp.pdb
+C:\Users\hp\source\repos\JSONParseApp\obj\Debug\JSONParseApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\JSONParseApp\obj\Debug\JSONParseApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\JSONParseApp\obj\Debug\JSONParseApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JSONParseApp\obj\Debug\JSONParseApp.exe
+C:\Users\hp\source\repos\JSONParseApp\obj\Debug\JSONParseApp.pdb
+C:\Users\hp\source\repos\JSONParseApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\JSONParseApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\JSONParseApp\obj\Debug\JSONParseApp.csproj.CopyComplete
