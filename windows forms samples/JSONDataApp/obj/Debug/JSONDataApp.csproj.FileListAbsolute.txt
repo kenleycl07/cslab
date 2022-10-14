@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\JSONDataApp\bin\Debug\JSONDataApp.exe.config
+C:\Users\hp\source\repos\JSONDataApp\bin\Debug\JSONDataApp.exe
+C:\Users\hp\source\repos\JSONDataApp\bin\Debug\JSONDataApp.pdb
+C:\Users\hp\source\repos\JSONDataApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\JSONDataApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\JSONDataApp\obj\Debug\JSONDataApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\JSONDataApp\obj\Debug\JSONDataApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\JSONDataApp\obj\Debug\JSONDataApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JSONDataApp\obj\Debug\JSONDataApp.csproj.CopyComplete
+C:\Users\hp\source\repos\JSONDataApp\obj\Debug\JSONDataApp.exe
+C:\Users\hp\source\repos\JSONDataApp\obj\Debug\JSONDataApp.pdb
